@@ -1,13 +1,13 @@
 {
   "name": "geoip",
   "description": "JavaScript API for MaxMind GeoIP databases",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Wade Simmons <wade@wades.im> (http://wades.im/mons)",
   "main": "./lib/geoip",
   "engines": {
-    "node": ">= 0.2.0"
+    "node": ">= 0.4.0"
   },
   "dependencies": {
-    "mmap": ">=0.0.1"
+    "mmap": ">=0.0.2"
   }
 }
